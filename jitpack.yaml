@@ -1,2 +1,5 @@
+jdk:
+  - openjdk-27
+
 install:
-  - mvn install:install-file "-Dfile=Garden v0.0.9.jar" -DgroupId=com.github.bfp2608 -DartifactId=Garden-Framework -Dversion=$VERSION -Dpackaging=jar -DgeneratePom=true
+  - mvn install:install-file -Dfile="Garden v0.0.9.jar" -DgroupId=com.github.bfp2608 -DartifactId=Garden-Framework -Dversion=$VERSION -Dpackaging=jar -DgeneratePom=true
