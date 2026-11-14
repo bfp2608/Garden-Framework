@@ -7,12 +7,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.bfp2608</groupId>
-    <artifactId>jitpack-build</artifactId>
+    <artifactId>Garden-Framework</artifactId>
     <version>0.1.1</version>
     <packaging>pom</packaging>
-
-    <properties>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    </properties>
 
 </project>
